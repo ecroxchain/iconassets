@@ -1,1 +1,1 @@
-# iconassets
+# Ecrox Wallet Assets
